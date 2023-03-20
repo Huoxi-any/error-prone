@@ -35,7 +35,7 @@
     <autoservice.version>1.0.1</autoservice.version>
     <autovalue.version>1.9</autovalue.version>
     <junit.version>4.13.2</junit.version>
-    <dataflow.version>3.24.0</dataflow.version>
+    <dataflow.version>3.31.0</dataflow.version>
     <mockito.version>4.6.1</mockito.version>
     <compile.testing.version>0.19</compile.testing.version>
     <caffeine.version>3.0.5</caffeine.version>
@@ -157,7 +157,7 @@
         <configuration>
           <source>11</source>
           <target>11</target>
-          <parameters />
+          <parameters/>
           <compilerArgs>
             <arg>--add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED</arg>
             <arg>--add-exports=jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED</arg>
